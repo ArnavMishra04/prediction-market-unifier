@@ -7,7 +7,7 @@
 A sophisticated multi-agent AI system that unifies prediction market data across multiple platforms, identifies arbitrage opportunities, and generates comprehensive analytical reports. Built for the CrowdWisdomTrading AI Agent Intern assessment.
 ## Dashboard
 
-![Sample Output](assets/Sample Output.png)  
+![Sample Output](assets/Sample Output)  
 
 ## 🌟 Features
 
