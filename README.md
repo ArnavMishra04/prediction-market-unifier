@@ -5,7 +5,10 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A sophisticated multi-agent AI system that unifies prediction market data across multiple platforms, identifies arbitrage opportunities, and generates comprehensive analytical reports. Built for the CrowdWisdomTrading AI Agent Intern assessment.
+## Dashboard
 
+- "C:\Users\LOQ\OneDrive\Pictures\Screenshots\Screenshot 2025-08-31 230241.png"
+  
 ## 🌟 Features
 
 ### 🤖 Multi-Agent Architecture
